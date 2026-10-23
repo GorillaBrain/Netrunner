@@ -2,6 +2,8 @@
 
 **Build networks. Trace packets. Understand the internet.**
 
+🌐 **Live Demo (Vercel):** [https://netrunner-gold.vercel.app](https://netrunner-gold.vercel.app)
+
 NetRunner is an interactive browser-based network simulation engine and packet laboratory inspired by Cisco Packet Tracer. Every action on the canvas is backed by a real, deterministic Layer 1–Layer 7 networking engine—never decorative or fake animations.
 
 ---
